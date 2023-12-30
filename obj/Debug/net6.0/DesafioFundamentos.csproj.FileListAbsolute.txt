@@ -1,0 +1,15 @@
+D:\Projetos\Diodesafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+D:\Projetos\Diodesafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+D:\Projetos\Diodesafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+D:\Projetos\Diodesafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+D:\Projetos\Diodesafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+D:\Projetos\Diodesafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
